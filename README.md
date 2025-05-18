@@ -1,4 +1,4 @@
-<b>Exploring Support Vector Machine for Regression (Churn Modeling)</b>
+<h2><b>Exploring Support Vector Machine for Regression (Churn Modeling)</b></h2>
 
 <b>Objectives:</b>
 - melakukan data preprocessing.
