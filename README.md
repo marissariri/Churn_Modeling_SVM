@@ -9,13 +9,13 @@
 - melakukan analisis hasil dan insight dari model SVM.
 
 <b>Detail Process:</b>
-Pra-pemrosesan Data:
+<p>Pra-pemrosesan Data:</p>
 - Import library yang dibutuhkan (numpy, pandas, seaborn, matplotlib, sklearn).
 - Muat dataset yang akan digunakan.
 - Melakukan Data Cleaning
 - Melakukan Feature Engineering
 - Melakukan Exploratory Data Analysis
-Pemodelan:
+<p>Pemodelan:</p>
 - Membuat model machine learning dengan menerapkan SVM
 Evaluasi Model:
 - Evaluasi performa dari model yang sudah dibuat
